@@ -1,1 +1,1 @@
-drop table1
+DROP table1
