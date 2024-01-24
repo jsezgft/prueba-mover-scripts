@@ -1,0 +1,1 @@
+Drop table tabla1
