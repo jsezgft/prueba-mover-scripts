@@ -1,1 +1,1 @@
-Drop table tabla1
+Move table tabla1
